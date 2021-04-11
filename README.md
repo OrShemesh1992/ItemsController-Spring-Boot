@@ -7,6 +7,10 @@
 
 
 ## About the project:
+spring-boot application with a REST controller, which exposes a Swagger API catalog.
+Include GET, POST, PUT, DELETE functions controlled by "REST controller" .
+Creating a mini-system List of the inventory items list.
+Data saved on H2 DB using JPA.
 
 
 ## How to use the project:
