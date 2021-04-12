@@ -15,9 +15,9 @@ Data saved on H2 DB using JPA.
 
 ## How to use the project:
 1.open command line
-2. git clone https://github.com/OrShemesh1992/ItemsController-Spring-Boot.git
-3. sudo docker pull orshmesh1992/image-itemscontroller
-4. docker run -p 8080:8080 -t orshmesh1992/image-itemscontroller
+2. git clone https://github.com/OrShemesh1992/ItemsController-Spring-Boot.git<br />
+3. sudo docker pull orshmesh1992/image-itemscontroller<br />
+4. docker run -p 8080:8080 -t orshmesh1992/image-itemscontroller<br />
 5. open browswer http://localhost:8080/swagger-ui/#/
 
 ## Sources:
